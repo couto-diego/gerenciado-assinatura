@@ -31,7 +31,7 @@ Antes de rodar o projeto, você precisará de:
 Abra seu terminal e execute o seguinte comando para clonar o repositório:
 
 
-git clone https://github.com/SEU_USUARIO/GERENCIADOR_ASSINATURAS.git
+git clone https://github.com/couto-diego/gerenciado-assinatura.git
 cd GERENCIADOR_ASSINATURAS
 
 ### Passo 2: Criar e Ativar o Ambiente Virtual
