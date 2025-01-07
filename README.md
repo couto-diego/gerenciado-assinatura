@@ -31,7 +31,11 @@ Antes de rodar o projeto, você precisará de:
 Abra seu terminal e execute o seguinte comando para clonar o repositório:
 
 
+<<<<<<< HEAD
 git clone https://github.com/SEU_USUARIO/GERENCIADOR_ASSINATURAS.git
+=======
+git clone https://github.com/couto-diego/gerenciado-assinatura.git
+>>>>>>> e4b17d4314ee5c15068e6c3c8dd0f2b27463e12a
 cd GERENCIADOR_ASSINATURAS
 
 ### Passo 2: Criar e Ativar o Ambiente Virtual
@@ -103,4 +107,7 @@ Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
 A cópia do Software deve conter a notificação de copyright acima e esta lista de condições.
 
 O Software é fornecido "no estado em que se encontra", sem garantia de qualquer tipo, expressa ou implícita, incluindo, mas não se limitando às garantias de comercialização, adequação a um propósito específico e não violação. Em nenhum caso os autores ou detentores do copyright serão responsáveis por qualquer reclamação, dano ou outra responsabilidade, seja em uma ação de contrato, ato ilícito ou de outra forma, decorrente de, fora de ou em conexão com o Software ou o uso ou outras transações no Software.
+<<<<<<< HEAD
 
+=======
+>>>>>>> e4b17d4314ee5c15068e6c3c8dd0f2b27463e12a
